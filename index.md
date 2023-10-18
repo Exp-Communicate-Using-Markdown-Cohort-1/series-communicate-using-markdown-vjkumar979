@@ -23,5 +23,5 @@ struct ContentView: View {
 - [x] Add an image
 - [x] Add a code example
 - [x] Make a task list
-- [ ] Merge your pull request
-- [ ] Finish
+- [x] Merge your pull request
+- [x] Finish
