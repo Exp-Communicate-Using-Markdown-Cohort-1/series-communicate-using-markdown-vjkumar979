@@ -1,2 +1,4 @@
 # I'm making a header
-I made these changes above to the index.md file
+I made these changes to the index.md file
+
+![Image of Change](https://online.up.ac.za/wp-content/uploads/2021/11/UP-Change-Job-1500x630.jpg)
